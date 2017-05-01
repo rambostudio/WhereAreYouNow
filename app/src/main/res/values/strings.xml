@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhereAreYouNow</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB-aA2R5IGCjoSp5yULUh76onx7Ovi0tng</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+    <string name="location_updated_message">Location updated</string>
+</resources>
